@@ -18,7 +18,7 @@ export class ProductListComponent {
     window.alert('You will be notified when the product goes on sale');
   }
 }
-}
+
 
 
 /*
